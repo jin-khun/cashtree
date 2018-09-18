@@ -9,8 +9,8 @@ require_once("sdata-modules.php");
 */
 ##############################################################################################################
 
-$config['mmses'] 		= 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
-$config['gaid'] 		= 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
+$config['mmses'] 		= 'cy59ph883go3nmTDOgK10fXr9J8tjxQse5yJle6ES6ORFIYIhd+41yf5CRi76Pota2y0VscohToNDq5SD6G49g';
+$config['gaid'] 		= 'f060013c-278e-49dc-8d3d-e36880aabb1a';
 $config['av'] 			= 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
 $config['imei'] 		= 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
 
